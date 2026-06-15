@@ -1,6 +1,6 @@
 # Intern Performance Prediction Model 🎯
 
-## 📌 Problem Statement
+##  Problem Statement:
 Organizations often struggle to evaluate intern performance objectively.  
 This project builds a **machine learning model** to classify interns into categories:
 - Struggle
@@ -11,7 +11,7 @@ based on features like task completion time, feedback rating, attendance, and pe
 
 ---
 
-## 📊 Dataset
+##  Dataset:
 - **Size:** 6000 interns  
 - **Features:**
   - `task_completion_time_hrs` (continuous)
@@ -22,7 +22,7 @@ based on features like task completion time, feedback rating, attendance, and pe
 
 ---
 
-## ⚙️ Methodology
+##  Methodology:
 1. **Exploratory Data Analysis (EDA)**  
    - Distribution plots, pairplots, correlation heatmap  
 2. **Preprocessing**  
@@ -40,7 +40,7 @@ based on features like task completion time, feedback rating, attendance, and pe
 
 ---
 
-## 📈 Results
+##  Results:
 - **Validation Accuracy:** ~XX%  
 - **Test Accuracy (Unseen Data):** ~YY%  
 - Confusion matrix shows balanced predictions across categories.  
@@ -48,7 +48,7 @@ based on features like task completion time, feedback rating, attendance, and pe
 
 ---
 
-## 🚀 Real-Time Prediction
+##  Real-Time Prediction:
 You can input intern data and get instant predictions:
 
 ```python
