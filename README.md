@@ -1,4 +1,4 @@
-# Intern Performance Prediction Model 🎯
+# Intern Performance Prediction Model
 
 ##  Problem Statement:
 Organizations often struggle to evaluate intern performance objectively.  
